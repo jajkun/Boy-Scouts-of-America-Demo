@@ -34,6 +34,7 @@ function1 will print 1 and function2 will print 2 and like function in programmi
 ## --- coding_exercise2_2.js:
 Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
 Example : 
-     27 ->(2*7) -> 14 -> (1*4) -> 1
-     
+     27 -> (2*7) -> 14 -> (1*4) -> 4
+     ,
      561 -> 5*6*1 -> 30 -> 3*0 -> 0 
+     
